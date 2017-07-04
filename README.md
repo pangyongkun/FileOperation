@@ -7,8 +7,8 @@
 ##  2.修改文件
 
     FileWriter fileWriter=new FileWriter(file);
-                fileWriter.write(username+":"+pwd);
-                fileWriter.close();
+    fileWriter.write(username+":"+pwd);
+    fileWriter.close();
           
 ##  3.读取文件
 
