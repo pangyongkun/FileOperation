@@ -1,4 +1,5 @@
 #   文件操作--File
+将数据保存到文件中去
 ##  1.新建文件
     //第一个参数为文件路径，第二个参数为文件名
     File file = new File(context.getFilesDir(), FILE_NAME);
